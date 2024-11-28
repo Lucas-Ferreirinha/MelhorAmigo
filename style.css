@@ -1,0 +1,41 @@
+#pai{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+div button{
+    color: black;
+    background-color: aliceblue;
+    border: solid 2px black;
+    border-radius: 0.6rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-transform: uppercase;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    font-size: 1.5rem;
+    margin: 2rem;
+
+}
+
+body{
+   background-color: beige;
+}
+
+.padrao{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+    padding: 2rem;
+    margin: 2rem;
+    background-color: aliceblue;
+    text-transform: uppercase;
+    border: solid 5px;
+}
+#resultado{
+    text-align: center;
+}
+
+
+
